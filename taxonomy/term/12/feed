@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2017drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado 2017 - Intermediate</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/12</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Commerce 2.x Changes Everything</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/commerce-2x-changes-everything</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 11:15am-11:40am&lt;/a&gt;Recital Hall&lt;p&gt;While Drupal 8 has reached critical mass and is the standard for new site builds, e-commerce projects were left behind... until now.&lt;/p&gt;
+&lt;p&gt;Drupal Commerce is completely re-written to leverage the Drupal 8 API and is in many ways a reference implementation for its most advanced features. In this session, we will explore Drupal Commerce&#039;s leadership position in Drupal 7 and how you can build enterprise-grade e-commerce sites with Commerce 2.x in Drupal 8.&lt;/p&gt;
+&lt;p&gt;While there will be a few code snippets, this session will focus on features and functionality over technical topics. Anyone considering building an e-commerce site using Drupal will come away with an understanding of Drupal Commerce 2.x&#039;s features, status and the state of the contrib ecosystem.&lt;/p&gt;
+&lt;p&gt;Speaker Brad Jones is a contributor to Drupal Commerce 2.x as well as contributed modules for marketplace sales, memberships and payments. He is CEO of BigIsland.Fish, a Drupal-powered marketplace application that seeks to revolutionize fresh seafood sales.&lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/bradjones1&quot;&gt;bradjones1&lt;/a&gt; &lt;/span&gt;
+    Development and Site Building30 minutes</description>
+ <pubDate>Sat, 01 Jul 2017 04:15:10 +0000</pubDate>
+ <dc:creator>bradjones1</dc:creator>
+ <guid isPermaLink="false">184 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/commerce-2x-changes-everything#comments</comments>
+</item>
+<item>
+ <title>Building a Scalable Theme System</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/building-scalable-theme-system</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 10:15am-11:10am&lt;/a&gt;Recital Hall&lt;p&gt;Whether you manage a single site or a hundred, you face constant requests to build new designs, new features, and even entirely new sites. How can you give your designers and marketers freedom to craft the look and feel that each brand requires without sacrificing &lt;em&gt;your&lt;/em&gt; sanity?&lt;/p&gt;
+&lt;p&gt;In this session, we&#039;ll look at creating a theme system that can be shared across a variety of web sites and industries. We&#039;ll consider the theory and practice of migrating from a monolithic front-end code base to a modular component structure. We&#039;ll also examine case studies, and discuss the trade-offs and potential downsides of such a transition.&lt;/p&gt;
+&lt;p&gt;Topics include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Front-end workflows to see results, fast&lt;/li&gt;
+&lt;li&gt;
+		Breaking out of &quot;append-only&quot; mode to confidently edit existing code&lt;/li&gt;
+&lt;li&gt;
+		The power (and safety) of visual regression testing&lt;/li&gt;
+&lt;li&gt;
+		Theming page segments with Paragraphs&lt;/li&gt;
+&lt;li&gt;
+		Using custom tooling to ease pain points&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;By the end, you&#039;ll have real-world examples of how to systematically theme sites, both old and new, in a way that&#039;s fast, flexible, and fun!&lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/tanderson&quot;&gt;tanderson&lt;/a&gt; &lt;/span&gt;
+    Front End60 minutes</description>
+ <pubDate>Fri, 30 Jun 2017 22:55:11 +0000</pubDate>
+ <dc:creator>tanderson</dc:creator>
+ <guid isPermaLink="false">181 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/building-scalable-theme-system#comments</comments>
+</item>
+<item>
+ <title>Winning the open web, owning our infrastructure, and how Drupal as a Service can save us all</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/winning-open-web-owning-our-infrastructure-and-how-drupal-service-can-save-us-all</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 1:15pm-2:10pm&lt;/a&gt;Recital Hall&lt;p&gt;Drupal is—as always—better and more successful than ever, but Drupal is threatened from two sides. On the one, we risk discouraging new users and contributors, who face too much of Drupal&#039;s complexity early on. On the other, proprietary platforms increasingly squeeze out custom web development through sheer economies of scale. Retreating into Drupal&#039;s new fortress, the enterprise, aside from leaving many of us behind, doesn&#039;t change these dynamics, which will continue until there&#039;s nowhere left to hide.&lt;/p&gt;
+&lt;p&gt;	Building on a different economic model, that of software as a service, can make Drupal the best choice for small organizations that can drive innovation and contributions. Instead of waiting for proprietary SaaS companies to slowly add features and come eat our lunch, we can swoop in and eat theirs. At the same time, a well-designed Drupal SaaS provides many more people with the traditional entryway to web development and Drupal: hacking around with HTML and clicking together functionality. So long as we continue to adhere to the principles of Free Software, it&#039;s only going to make the Drupal software and community better. And if we organize SaaS-providing businesses as platform cooperatives, we&#039;ll be putting people in control of the software that controls our lives, which, in an age of flying killer robots, may be almost as important as the health and happiness of the Drupal community.&lt;/p&gt;
+&lt;p&gt;	Anyone with some professional experience in Drupal and an interest in its future should come, and expect to leave with new insight into what leads to long-term success in a software project, and some new thoughts on areas where making the leap from services to product may make sense for you and the individuals and organizations you serve.&lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/mlncn&quot;&gt;mlncn&lt;/a&gt; &lt;/span&gt;
+          &lt;span class=&quot;field-item odd&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/users/cedewey&quot;&gt;cedewey&lt;/a&gt; &lt;/span&gt;
+    Business and Open Source60 minutes</description>
+ <pubDate>Fri, 30 Jun 2017 21:30:43 +0000</pubDate>
+ <dc:creator>mlncn</dc:creator>
+ <guid isPermaLink="false">179 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/winning-open-web-owning-our-infrastructure-and-how-drupal-service-can-save-us-all#comments</comments>
+</item>
+<item>
+ <title>Building a Donation Form Management System for Denver Rescue Mission</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/building-donation-form-management-system-denver-rescue-mission</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 1:15pm-2:10pm&lt;/a&gt;Room 211&lt;p&gt;Overview&lt;/p&gt;
+&lt;p&gt;During this session we will discuss how we tackled the problem of building a flexible donation form management system which integrated seamlessly with BlackBaud&#039;s Luminate Online donation API. This session will concentrate mostly on the custom back-end and JavaScript development involved in building the donation form management system for Denver Rescue Mission. We will provide some insight to the statistics and feedback we have received from Denver Rescue Mission and some of the custom functionality extensions we built to meet their specific needs.&lt;/p&gt;
+&lt;p&gt;	Back-end Development&lt;/p&gt;
+&lt;p&gt;We will discuss how we approached the task from a mainly technical point of view, specifically the back-end build using the Entity, Form, Block, and Field APIs, and a custom integration with Luminate Online. The system was built to be self-contained and client agnostic, with custom exposed hooks to define custom functionality, and the only contrib modules we relied upon were Entity, EntityReference, and Replicate in a bid to ensure that the contrib footprint was not a barrier to entry for future clients. &lt;/p&gt;
+&lt;p&gt;	Theming and JavaScript &lt;/p&gt;
+&lt;p&gt;We built our own custom drag-and-drop form builder using JavaScript and we will discuss the merits of such an approach and why we had to roll our own rather than using anything currently available as a contrib module. As part of the development for this module we also created an option for each form instance to define it&#039;s own set of CSS and JS includes to allow for custom styling and functionality on a per-form basis. We will discuss how we achieved this and how we approached JavaScript inheritance for this purpose.&lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/owenbush&quot;&gt;owenbush&lt;/a&gt; &lt;/span&gt;
+    Development and Site Building60 minutes</description>
+ <pubDate>Fri, 30 Jun 2017 16:52:00 +0000</pubDate>
+ <dc:creator>owenbush</dc:creator>
+ <guid isPermaLink="false">178 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/building-donation-form-management-system-denver-rescue-mission#comments</comments>
+</item>
+<item>
+ <title>Powering an Interactive SVG and JavaScript Game Engine with Drupal</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/powering-interactive-svg-and-javascript-game-engine-drupal</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 9:30am-9:55am&lt;/a&gt;Room 215&lt;p&gt;Drupal&#039;s fielded entities were designed for structuring and displaying traditional web content, but can just as easily be used to build a rich data model for almost any application.&lt;/p&gt;
+&lt;p&gt;We&#039;ll look at how Aten built a Drupal-powered API for generating levels for an HTML5, SVG and JavaScript game engine. This system allowed content editors to create a limitless number of unique, hand-crafted levels for an early childhood education game without additional development costs.&lt;/p&gt;
+&lt;p&gt;This session will cover how we used Drupal to create configurable level entities, the tools and techniques we used to make an interactive game with SVG and JavaScript, and how we internationalized our audio instructions by integrating Drupal with the Watson API. Attendees of any experience level are welcome to attend, but attendees who can follow along with some JavaScript code examples and those with an interest in browser based graphics and animation will find the presentation even more engaging.&lt;/p&gt;
+&lt;p&gt;What you should already know&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Site builder knowledge of Drupal&lt;/li&gt;
+&lt;li&gt;
+		Intermediate javascript&lt;/li&gt;
+&lt;li&gt;
+		Familiarity with SVG or interest in graphics and animation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;I previously presented this as a 25 min session at DrupalCon 2017 in Baltimore.&lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/zrpnr-0&quot;&gt;zrpnr&lt;/a&gt; &lt;/span&gt;
+    Front End30 minutes</description>
+ <pubDate>Wed, 28 Jun 2017 14:58:49 +0000</pubDate>
+ <dc:creator>zrpnr</dc:creator>
+ <guid isPermaLink="false">174 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/powering-interactive-svg-and-javascript-game-engine-drupal#comments</comments>
+</item>
+<item>
+ <title>Firehose of Information with Browser-Based Developer Tools</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/firehose-information-browser-based-developer-tools</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 1:15pm-2:10pm&lt;/a&gt;Room 215&lt;p&gt;Browser based developer tools have become an indispensable tool for modern front-end web development. New features and changes are being added at a rapid pace, and keeping up with all of the changes is difficult, but well worth it!&lt;/p&gt;
+&lt;p&gt;In this presentation, We will walk through the tricks of the trade including Chrome developer tools, Firefox and Safari.&lt;/p&gt;
+&lt;p&gt;I’ll walk through common problems and how to solve them including&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+			Integrating DevTools into your modern front-end workflow&lt;/li&gt;
+&lt;li&gt;
+			Modern front-end debugging techniques using browser-based developer tools&lt;/li&gt;
+&lt;li&gt;
+			Identifying front-end performance problems (and fixing them!)&lt;/li&gt;
+&lt;li&gt;
+			Profiling browser rendering issues&lt;/li&gt;
+&lt;li&gt;
+			Making sure your CSS is resilient to content-based changes&lt;/li&gt;
+&lt;li&gt;
+			How this all relates to Drupal&lt;/li&gt;
+&lt;li&gt;
+			Using browser based developer tools to remotely debug your smartphone - both Android and iOS&lt;/li&gt;
+&lt;li&gt;
+			Various tips and tricks that will save you hours in your next project&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Best of all, this will all be covered through the use of real-world examples.&lt;/p&gt;
+&lt;p&gt;This presentation will be mostly live real world examples (with a minimum of slides). To get the most out of it, I assume that you have very basic familiarity with the browser, and are familiar with HTML, CSS, and JavaScript.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/michael-herchel&quot;&gt;Michael Herchel&lt;/a&gt; &lt;/span&gt;
+    Front End60 minutes</description>
+ <pubDate>Wed, 28 Jun 2017 13:17:44 +0000</pubDate>
+ <dc:creator>Michael Herchel</dc:creator>
+ <guid isPermaLink="false">173 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/firehose-information-browser-based-developer-tools#comments</comments>
+</item>
+<item>
+ <title>Estimates, Expectations, and Evolution</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/estimates-expectations-and-evolution</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 10:15am-11:10am&lt;/a&gt;Room 213&lt;blockquote&gt;&lt;p&gt;“With Drupal features are cheap and details expensive” — Vesa Palmu, CEO of Wunderkraut&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We’ve all been there with a client. Back when the project kicked off (days, weeks, months, or even years ago) there was some type of mutual understanding of the time, timeline, and cost of their project. Unfortunately, things happened along the way! Conversations sparked new ideas. Assumptions turned out to be incorrect. Life happened and someone left the team. Whatever the reason(s), the scope of the project today is no way matches what was discussed at the very beginning of the relationship.&lt;/p&gt;
+&lt;p&gt;How did we get here?&lt;/p&gt;
+&lt;p&gt;Perhaps a better question: how could we NOT get here?&lt;/p&gt;
+&lt;p&gt;While it seems like a cop-out to say that there it’s impossible to accurately estimate a Drupal project, the reality is that features are cheap and details are expensive. Want a fully functional, world-class eCommerce solution for Drupal? You can literally download and enable Drupal Commerce in minutes! Want to make a super customized and flexible coupon system and recommendation engine? You could sink 100 (or 1000) hours into that one feature alone. And no matter how much time is spent in an RFP, it will almost all get thrown out that window once conversations begin and new ideas start to form (and that’s a good thing!).&lt;/p&gt;
+&lt;p&gt;Perhaps a better approach is to go into a project setting the expectations that estimates are not fixed numbers carved in stone, but evolve as they go from mere ideas (with high variability of cost and complexity) to increasingly more refined values.&lt;/p&gt;
+&lt;p&gt;That sounds all nice and theoretical, but how does one go about this? Over the years as a technical project architect, I’ve adapted a process by Seth Brown (see The Art of Estimations) to include a time component into the mix. One can start off with coarse estimates during the RFP and pre-sale process and then save snapshots of the estimations over time as things evolve and move through discovery, definition, designs, etc.&lt;/p&gt;
+&lt;p&gt;This talk will involve a mix of theory and actual case studies where this technique was used to either increase budgets when/where appropriate and/or defend removing or eliminating functionality that simply could not fit within the original budget. Used properly, all members of the team can contribute towards the evolution of this document and stay on the same page with the client at all times during the evolution of the project.&lt;br /&gt;
+	 &lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/rickmanelius-0&quot;&gt;rickmanelius&lt;/a&gt; &lt;/span&gt;
+    Business and Open Source60 minutes</description>
+ <pubDate>Tue, 27 Jun 2017 03:07:54 +0000</pubDate>
+ <dc:creator>rickmanelius</dc:creator>
+ <guid isPermaLink="false">171 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/estimates-expectations-and-evolution#comments</comments>
+</item>
+<item>
+ <title>What&#039;s Our Secret Sauce and What Should Be Open Sourced?</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/whats-our-secret-sauce-and-what-should-be-open-sourced</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 9:30am-9:55am&lt;/a&gt;Room 213&lt;p&gt;My aunt Mary makes a mean cheese cake, which was why it was always instantly eaten at all of our annual family gatherings. For years we begged her to share her secret recipe, but our requests were denied and we had to wait until the next Holiday. Decades later, she would give it away to anyone that would ask. Why wouldn&#039;t she? One can now find 1000&#039;s of different cheesecake recipes online for free and featuring all sorts of fun and tasty variations. Nostalgia aside, there isn&#039;t anything so secret and special about that recipe anymore.&lt;/p&gt;
+&lt;p&gt;	&quot;There&#039;s a module for that!&quot;&lt;/p&gt;
+&lt;p&gt;How often have you hit a problem or thought of a new idea for a Drupal site only to find out there is already a module with 10,000+ users? If you&#039;ve been building sites for more than a year, I&#039;d bet at least a dozen times. Does it really make sense for everyone to make their own custom solution to add Google Analytics to a site or to integrate a form with Salesforce? Probably not. These types of needs are common and therefore do not represent any real competitive advantage for a business or organization. This is where the spirit of open source shines. Common patterns and problems can be shared with the community, allowing us to stand on the shoulders of giants and focusing our time and effort on what is truly unique for each user.&lt;/p&gt;
+&lt;p&gt;The challenge is figuring out where to draw the line between what is worthy of being proprietary and what is worthy of a plugin that simply provides a means to an end. Further complicating this is that this line shifts over time. The first company to do something unique may wish to keep it private until dozens (or hundreds) of people are basically doing the same thing. At that point it&#039;s only a matter of time before people begin to pool their resources together to solve it together so they can get back to investing their time and energy what differentiates their business.&lt;/p&gt;
+&lt;p&gt;This presentation will cover the following topics:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Wardley Maps: How solutions evolve from Genesis to custom, to a product, and finally to a commodity.&lt;/li&gt;
+&lt;li&gt;
+		How and Why Open Source CMS&#039;s like Drupal and WordPress are winning the CMS war.&lt;/li&gt;
+&lt;li&gt;
+		Finding the Line: How to determine what is proprietary and what is commonplace.&lt;/li&gt;
+&lt;li&gt;
+		Looking at the future: Is the time ripe for an open source Drupal hosting PaaS?&lt;/li&gt;
+&lt;li&gt;
+		Evolving Business Models: How to adapt as your industry changes.&lt;/li&gt;
+&lt;/ul&gt;          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/rickmanelius-0&quot;&gt;rickmanelius&lt;/a&gt; &lt;/span&gt;
+    Business and Open Source30 minutes</description>
+ <pubDate>Tue, 27 Jun 2017 02:40:04 +0000</pubDate>
+ <dc:creator>rickmanelius</dc:creator>
+ <guid isPermaLink="false">170 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/whats-our-secret-sauce-and-what-should-be-open-sourced#comments</comments>
+</item>
+<item>
+ <title>Leveraging Maps for Scalable and Maintainable SASS</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/leveraging-maps-scalable-and-maintainable-sass</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 1:15pm-2:10pm&lt;/a&gt;Room 213&lt;p&gt;SASS is a relatively new language in the grand scheme of things. As many of us have transitioned from writing plain CSS to SASS, we still generally write our code the same way. Websites are becoming more complicated, and as such, we need more robust ways to write our CSS so that it is scalable and maintainable, even when the project grows.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	In this session, I’ll discuss the idea of creating a framework in SASS to decouple the most complicated pieces of your code from the actual implementation. With this approach, you’ll still be able to use any CSS system, such as utility classes, BEM syntax or even just plain Drupal selectors. &lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	You may be interested in this session if:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		You are new to SASS and would like to learn about what it’s capable of&lt;/li&gt;
+&lt;li&gt;
+		You are experienced in SASS but feel like you still haven’t nailed down a system&lt;/li&gt;
+&lt;li&gt;
+		You are a developer and are constantly frustrated that none of your programming skills carry over to SASS&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;	&lt;strong&gt;Link to slides:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;	&lt;a href=&quot;http://slides.com/tandroid/leveraging-maps-for-scalable-and-maintainable-sass&quot;&gt;http://slides.com/tandroid/leveraging-maps-for-scalable-and-maintainable-sass&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/tannerlangley&quot;&gt;tannerlangley&lt;/a&gt; &lt;/span&gt;
+    Front End60 minutes</description>
+ <pubDate>Thu, 22 Jun 2017 02:28:04 +0000</pubDate>
+ <dc:creator>tannerlangley</dc:creator>
+ <guid isPermaLink="false">165 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/leveraging-maps-scalable-and-maintainable-sass#comments</comments>
+</item>
+<item>
+ <title>Lessons Learned: Component Based Design with Paragraphs</title>
+ <link>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/lessons-learned-component-based-design-paragraphs</link>
+ <description>&lt;a href=&quot;/content/july-29th-camp&quot;&gt;July 29th - CAMP 3:30pm-4:25pm&lt;/a&gt;Room 213&lt;p&gt;The ideas of Atomic Design and component based design allow one to create an established structure within which a large scale front end project can be built. The CMS space hasn’t always been the most friendly toward implementing these types of patterns. Whether it’s difficulty in creating a content architecture that models your front end design system within Drupal or the feeling of lack of control over generated markup, it can feel like an uphill battle.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	The Paragraphs module gives us the tools to create much more well defined and structured component based architectures upon which modular front end systems can be built. The Paragraphs module, however, comes with no rules. As a site architect and front end developer, you must decide how to implement Paragraphs. There is definitely a lot of room for flexibility in implementation, but there are many best practices that can be followed to allow for a very clean, scalable, and extendable front end design system to be built within Drupal 8.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	The goals of this session will be the following:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Review the basic concepts and benefits of component based design&lt;/li&gt;
+&lt;li&gt;
+		Discuss the paragraphs module and how to create an implementation based on a well defined content architecture &lt;/li&gt;
+&lt;li&gt;
+		Explore some Drupal best practices that allow for a successful component based design system implementation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	*Some prior knowledge of the Paragraphs module, Drupal 8, and front end development tools would be best, but are not completely required.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	Slides: &lt;a href=&quot;https://slides.com/anthonysimone/paragraphs&quot;&gt;https://slides.com/anthonysimone/paragraphs&lt;/a&gt;&lt;/p&gt;
+          &lt;span class=&quot;field-item even&quot; class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/users/asimone&quot;&gt;asimone&lt;/a&gt; &lt;/span&gt;
+    Front End60 minutes</description>
+ <pubDate>Thu, 22 Jun 2017 02:27:53 +0000</pubDate>
+ <dc:creator>asimone</dc:creator>
+ <guid isPermaLink="false">164 at https://dev-2017drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2017drupalcampcoloradoorg.pantheonsite.io/session/lessons-learned-component-based-design-paragraphs#comments</comments>
+</item>
+</channel>
+</rss>
